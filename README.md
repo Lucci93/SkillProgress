@@ -16,6 +16,10 @@ For **better performance** add the latest version.
 
 1- Download or clone the git repository.
 
+```bash
+git clone https://github.com/Lucci93/SkillProgress.git
+```
+
 2- Add skillProgress.min.js to your folder.
 
 ```html
