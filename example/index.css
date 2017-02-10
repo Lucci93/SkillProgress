@@ -1,0 +1,15 @@
+html {
+    background-color: #8F8D8E;
+}
+
+.label {
+    color: #FF9681;
+    font-size: 1.2em;
+}
+
+.chart_bar {
+    height: 1.5em;
+    font-size: 1.2em;
+    color: #EEE;;
+    background-color: #FF9681;
+}
